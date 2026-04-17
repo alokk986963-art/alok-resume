@@ -53,8 +53,6 @@
 
 <body class="dark-vertion black-bg">
 
-    
-
     <!--
         ===================
            NAVIGATION
